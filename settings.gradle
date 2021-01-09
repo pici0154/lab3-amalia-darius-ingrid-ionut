@@ -1,0 +1,5 @@
+rootProject.name = 'tcp2-lab3'
+include 'server'
+include 'common'
+include 'client'
+
